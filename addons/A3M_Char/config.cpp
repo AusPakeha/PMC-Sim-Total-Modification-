@@ -101,7 +101,7 @@ class CfgVehicles
 		vehicleClass="opsg_units";
 		icon="iconMan";
 		nakedUniform="U_BasicBody";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="";
 		linkedItems[]=
 		{
@@ -128,7 +128,7 @@ class CfgVehicles
 		vehicleClass="opsg_units";
 		icon="iconManLeader";
 		nakedUniform="U_BasicBody";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="";
 		linkedItems[]=
 		{
@@ -155,7 +155,7 @@ class CfgVehicles
 		vehicleClass="opsg_units";
 		icon="iconMan";
 		nakedUniform="U_BasicBody";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="";
 		linkedItems[]=
 		{
@@ -224,7 +224,7 @@ class CfgVehicles
 		vehicleClass="opsg_units";
 		icon="iconMan";
 		nakedUniform="U_BasicBody";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="";
 		linkedItems[]=
 		{
@@ -293,7 +293,7 @@ class CfgVehicles
 		vehicleClass="opsg_units";
 		icon="iconMan";
 		nakedUniform="U_BasicBody";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="";
 		linkedItems[]=
 		{
@@ -362,7 +362,7 @@ class CfgVehicles
 		vehicleClass="opsg_units";
 		icon="iconMan";
 		nakedUniform="U_BasicBody";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="";
 		linkedItems[]=
 		{
@@ -431,7 +431,7 @@ class CfgVehicles
 		vehicleClass="opsg_units";
 		icon="iconMan";
 		nakedUniform="U_BasicBody";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="";
 		linkedItems[]=
 		{
@@ -500,7 +500,7 @@ class CfgVehicles
 		vehicleClass="opsg_units";
 		icon="iconMan";
 		nakedUniform="U_BasicBody";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="B_AssaultPack_rgr";
 		linkedItems[]=
 		{
@@ -569,7 +569,7 @@ class CfgVehicles
 		vehicleClass="opsg_units";
 		icon="iconMan";
 		nakedUniform="U_BasicBody";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="B_AssaultPack_rgr";
 		linkedItems[]=
 		{
@@ -634,7 +634,7 @@ class CfgVehicles
 		vehicleClass="opsg_units";
 		icon="iconMan";
 		nakedUniform="U_BasicBody";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="B_Parachute";
 		linkedItems[]=
 		{
@@ -691,7 +691,7 @@ class CfgVehicles
 		displayName="Operative IX (AI Medic)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="B_AssaultPack_rgr_Medic";
 		linkedItems[]=
 		{
@@ -758,7 +758,7 @@ class CfgVehicles
 		displayName="Operative IX (Medic)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		linkedItems[]=
 		{
 			"ItemMap"
@@ -785,7 +785,7 @@ class CfgVehicles
 		displayName="Operative X (Engineer)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
-		uniformClass="U_BG_Guerrilla_6_1";
+		uniformClass="U_Marshal";
 		backpack="B_FieldPack_cbr_Repair";
 		linkedItems[]=
 		{

@@ -227,7 +227,7 @@ class cfgVehicles
 		scopeArsenal = 2; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
     faction="OPF_GEN_F";
     side=0;
-    displayName="Gendarmerie Officer (SMG)";
+    displayName="Gendarmerie Lieutenant (SMG)";
     editorSubcategory = "EdSubcat_Personnel";
     uniformClass="U_O_GEN_Soldier_F";
     weapons[]={"A3M_SMG_05_F","A3M_hgun_P07_F","Put","Throw"};

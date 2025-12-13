@@ -399,6 +399,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Drug Lord Solomon Maru";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_arifle_AK12_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AK12_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -420,6 +424,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Pilot";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_SMG_01_F_ACE_muzzle_mzls_smg_01optic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_SMG_01_F_ACE_muzzle_mzls_smg_01optic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -441,6 +449,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Lieutenant (Enforcer)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_arifle_AK12_GL_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AK12_GL_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -462,6 +474,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Lieutenant (Oppressor)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_MMG_02_black_F_acc_pointer_IRoptic_Holosight_smg_blk_Fbipod_01_F_blk", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_MMG_02_black_F_acc_pointer_IRoptic_Holosight_smg_blk_Fbipod_01_F_blk", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -483,6 +499,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Dealer)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -504,6 +524,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Guard)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_LMG_03_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_LMG_03_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -525,6 +549,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Hireling (Launcher))";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_arifle_AKS_F", "A3M_launch_RPG7_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKS_F", "A3M_launch_RPG7_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -546,6 +574,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Scout (Rifle))";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_srifle_DMR_03_F_muzzle_snds_Bacc_pointer_IRoptic_KHS_oldbipod_02_F_blk", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_srifle_DMR_03_F_muzzle_snds_Bacc_pointer_IRoptic_KHS_oldbipod_02_F_blk", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -567,6 +599,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Smuggler)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_arifle_AKM_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKM_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -588,6 +624,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Snatcher)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -609,6 +649,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Thug)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -630,6 +674,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Watcher)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     uniformClass = "U_I_L_Uniform_01_deserter_F";
     weapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -651,6 +699,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Hitman (Deserter)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     editorSubcategory = "EdSubcat_Personnel_SpecialForces";
     uniformClass = "U_I_L_Uniform_01_camo_F";
     weapons[] = {"A3M_arifle_SPAR_01_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -673,6 +725,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Hitman (Militiaman)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     editorSubcategory = "EdSubcat_Personnel_SpecialForces";
     uniformClass = "U_I_L_Uniform_01_camo_F";
     weapons[] = {"A3M_SMG_05_F_muzzle_snds_lacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -695,6 +751,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Hitman (Raider (UGL))";
+		class EventHandlers 
+		{
+			init = "";
+		};
     editorSubcategory = "EdSubcat_Personnel_SpecialForces";
     uniformClass = "U_I_L_Uniform_01_camo_F";
     weapons[] = {"A3M_arifle_SPAR_01_GL_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -717,6 +777,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Hitman (Saboteur)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     editorSubcategory = "EdSubcat_Personnel_SpecialForces";
     uniformClass = "U_I_L_Uniform_01_camo_F";
     weapons[] = {"A3M_arifle_SPAR_01_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
@@ -739,6 +803,10 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Hitman (Specialist)";
+		class EventHandlers 
+		{
+			init = "";
+		};
     editorSubcategory = "EdSubcat_Personnel_SpecialForces";
     uniformClass = "U_I_L_Uniform_01_camo_F";
     weapons[] = {"A3M_arifle_SPAR_01_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_launch_RPG7_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
