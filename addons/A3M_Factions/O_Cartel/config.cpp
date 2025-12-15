@@ -390,7 +390,7 @@ class cfgVehicles
   class I_C_Soldier_Para_8_F;
   class I_C_Soldier_Para_5_F;
 
-  class A3M_Drug_Lord_Solomon_Maru : I_C_Soldier_Camo_F
+  class A3M_Drug_Lord : I_C_Soldier_Camo_F
   {
     editorPreview = "";
 		scope = 2; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
@@ -398,7 +398,8 @@ class cfgVehicles
 		scopeArsenal = 2; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		faction = "A3M_Cartel";
     side = 0;
-    displayName = "Drug Lord Solomon Maru";
+    displayName = "Drug Lord";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -424,6 +425,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Pilot";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -449,6 +451,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Lieutenant (Enforcer)";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -474,6 +477,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Lieutenant (Oppressor)";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -499,6 +503,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Dealer)";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -524,6 +529,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Guard)";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -549,6 +555,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Hireling (Launcher))";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -574,6 +581,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Scout (Rifle))";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -599,6 +607,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Smuggler)";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -624,6 +633,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Snatcher)";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -649,6 +659,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Thug)";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -674,6 +685,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Falcon (Watcher)";
+    editorSubcategory = "EdSubcat_Personnel";
 		class EventHandlers 
 		{
 			init = "";
@@ -846,6 +858,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Jeep Wrangler";
+    editorSubcategory = "EdSubcat_Cars";
     hiddenSelectionsTextures[] =
         {
             "a3\soft_f_exp\offroad_02\data\offroad_02_ext_brown_co.paa",
@@ -865,6 +878,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Jeep Wrangler (LMG)";
+    editorSubcategory = "EdSubcat_Cars";
     hiddenSelectionsTextures[] = 
     {
       "a3\soft_f_exp\offroad_02\data\offroad_02_ext_olive_co.paa",
@@ -885,6 +899,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Jeep Wrangler (SPG9)";
+    editorSubcategory = "EdSubcat_Cars";
     hiddenSelectionsTextures[] = 
     {
       "a3\soft_f_exp\offroad_02\data\offroad_02_ext_olive_co.paa", 
@@ -905,6 +920,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Truck";
+    editorSubcategory = "EdSubcat_Cars";
     hiddenSelectionsTextures[] = 
     {
       "a3\soft_f_exp\van_01\data\van_01_ext_oli_co.paa", 
@@ -924,6 +940,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Van (Cargo)";
+    editorSubcategory = "EdSubcat_Cars";
     hiddenSelectionsTextures[] = 
     {
       "a3\soft_f_orange\van_02\data\van_body_syndikat_co.paa", 
@@ -944,6 +961,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Van (Transport)";
+    editorSubcategory = "EdSubcat_Cars";
     hiddenSelectionsTextures[] = 
     {
       "a3\soft_f_orange\van_02\data\van_body_syndikat_co.paa", 
@@ -964,6 +982,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "MD 500";
+    editorSubcategory = "EdSubcat_Helicopters";
     hiddenSelectionsTextures[] = 
     {
       "a3\air_f\heli_light_01\data\skins\heli_light_01_ext_shadow_co.paa", 
@@ -1070,6 +1089,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Offroad (AT)";
+    editorSubcategory = "EdSubcat_Cars";
     hiddenSelectionsTextures[] = 
     {
       "a3\soft_f_bootcamp\offroad_01\data\offroad_01_ext_ig_09_co.paa", 
@@ -1088,6 +1108,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Offroad (HMG)";
+    editorSubcategory = "EdSubcat_Cars";
     hiddenSelectionsTextures[] = 
     {
       "a3\soft_f_bootcamp\offroad_01\data\offroad_01_ext_ig_03_co.paa", 
@@ -1106,6 +1127,7 @@ class cfgVehicles
 		faction = "A3M_Cartel";
     side = 0;
     displayName = "Offroad";
+    editorSubcategory = "EdSubcat_Cars";
     hiddenSelectionsTextures[] = 
     {
       "a3\soft_f_bootcamp\offroad_01\data\offroad_01_ext_ig_05_co.paa", 

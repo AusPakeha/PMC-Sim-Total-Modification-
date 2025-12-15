@@ -93,9 +93,12 @@ class CfgVehicles
 	class B_Soldier_base_F;
 	class A3M_OPSG_Unarmed: B_Soldier_base_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="A3M_OPSG_Unarmed";
-		scope=2;
 		displayName="Operative";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -120,9 +123,12 @@ class CfgVehicles
 	};
 	class A3M_OPSG_UnarmedTC: B_Soldier_base_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="A3M_OPSG_UnarmedTC";
-		scope=2;
 		displayName="Team Coordinator";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -147,9 +153,12 @@ class CfgVehicles
 	};
 	class A3M_OPSG_CQB: B_Soldier_base_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="A3M_OPSG_CQB";
-		scope=2;
 		displayName="Operative I (Guard)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -216,9 +225,12 @@ class CfgVehicles
 	};
 	class A3M_OPSG_Assault_Light: B_Soldier_base_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="A3M_OPSG_Assault_Light";
-		scope=2;
 		displayName="Operative II (Light Assault)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -285,9 +297,12 @@ class CfgVehicles
 	};
 	class A3M_OPSG_Assault: B_Soldier_base_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="iconMan";
-		scope=2;
 		displayName="Operative III (Assault)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -354,9 +369,12 @@ class CfgVehicles
 	};
 	class A3M_OPSG_Assault_Heavy: B_Soldier_base_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="A3M_OPSG_Assault_Heavy";
-		scope=2;
 		displayName="Operative IV (Hvy Assault)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -423,9 +441,12 @@ class CfgVehicles
 	};
 	class A3M_OPSG_Grenadier: B_Soldier_base_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="A3M_OPSG_Grenadier";
-		scope=2;
 		displayName="Operative V  (Grenadier)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -492,9 +513,12 @@ class CfgVehicles
 	};
 	class A3M_OPSG_Autorifleman: B_Soldier_base_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="A3M_OPSG_Autorifleman";
-		scope=2;
 		displayName="Operative VI  (Autorifleman)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -561,9 +585,12 @@ class CfgVehicles
 	};
 	class A3M_OPSG_Marksman: B_Soldier_base_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="A3M_OPSG_Marksman";
-		scope=2;
 		displayName="Operative VII  (Marksman)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -626,9 +653,12 @@ class CfgVehicles
 	};
 	class A3M_OPSG_Pilot: B_Soldier_base_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="A3M_OPSG_Pilot";
-		scope=2;
 		displayName="Operative VIII (Pilot)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -685,9 +715,12 @@ class CfgVehicles
 	};
 	class A3M_OPSG_Medic: B_Medic_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="A3M_OPSG_Medic";
-		scope=2;
 		displayName="Operative IX (AI Medic)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -752,9 +785,12 @@ class CfgVehicles
 	};
 	class A3M_OPSG_Medic_Unarmed: B_Medic_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
 		_generalMacro="A3M_OPSG_Medic_Unarmed";
-		scope=2;
 		displayName="Operative IX (Medic)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";
@@ -780,8 +816,11 @@ class CfgVehicles
 	};
 	class A3M_OPSG_Engineer: B_engineer_F
 	{
+		editorPreview = "";
+		scope = 1; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
+		scopeCurator = 0; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
+		scopeArsenal = 0; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal. 
 		author="Cody Salazar AKA TMN Fr33d0m";
-		scope=2;
 		displayName="Operative X (Engineer)";
 		faction="opsg_faction";
 		vehicleClass="opsg_units";

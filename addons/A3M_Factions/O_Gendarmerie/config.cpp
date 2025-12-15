@@ -18,8 +18,8 @@ class cfgPatches
       "A3M_Gendarmerie_Van_Cargo",
       "A3M_Gendarmerie_Van_Transport",
       "A3M_Gendarmerie_MH6_Little_bird",
-      "A3M_Gendarmerie_Ka60_Kasatka",
-      "A3M_Gendarmerie_MATV"};
+      "A3M_Gendarmerie_Ka60_Kasatka"
+      };
     weapons[]=
     {
       "A3M_SMG_05_F",
@@ -402,7 +402,6 @@ class cfgVehicles
   class B_GEN_Van_02_transport_F;
   class B_Heli_Light_01_F;
   class O_Heli_Light_02_unarmed_F;
-  class B_MRAP_01_F;
 
   class A3M_Gendarmerie_Offroad: B_GEN_Offroad_01_gen_F
   {
@@ -531,7 +530,7 @@ class cfgVehicles
 		scopeArsenal = 2; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
     faction="OPF_GEN_F";
     side=0;
-    displayName="Gendarmerie Ka-60 Kasatka"
+    displayName="Gendarmerie Ka-60 Kasatka";
     editorSubcategory = "EdSubcat_Helicopters";
     hiddenSelectionsTextures[]=
     {
@@ -539,25 +538,6 @@ class cfgVehicles
     };
     crew="A3M_Gendarmerie_Pilot";
     typicalCargo[]={"A3M_Gendarmerie_Pilot"};
-  };
-
-  class A3M_Gendarmerie_MATV: B_MRAP_01_F
-  {
-    editorPreview = "";
-		scope = 2; // 2 = class is available in the editor; 1 = class is unavailable in the editor, but can be accessed via a macro; 0 = class is unavailable (and used for inheritance only).
-		scopeCurator = 2; // 2 = class is available in Zeus; 0 = class is unavailable in Zeus.
-		scopeArsenal = 2; // 2 = class is available in the Virtual Arsenal; 0 = class is unavailable in the Virtual Arsenal.
-    faction="OPF_GEN_F";
-    side=0;
-    displayName="Gendarmerie M-ATV";
-    editorSubcategory = "EdSubcat_Cars";
-    hiddenSelectionsTextures[]=
-    {
-    "a3\soft_f\mrap_01\data\mrap_01_base_co.paa","a3\soft_f\mrap_01\data\mrap_01_adds_co.paa",
-    ""
-    };
-    crew="A3M_Gendarmerie_SWAT_Pistol";
-    typicalCargo[]={"A3M_Gendarmerie_SWAT_Pistol"};
   };
 
 
