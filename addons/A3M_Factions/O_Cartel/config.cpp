@@ -404,7 +404,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_AK12_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AK12_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -430,7 +430,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_SMG_01_F_ACE_muzzle_mzls_smg_01optic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_SMG_01_F_ACE_muzzle_mzls_smg_01optic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -456,7 +456,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_AK12_GL_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AK12_GL_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -482,7 +482,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_MMG_02_black_F_acc_pointer_IRoptic_Holosight_smg_blk_Fbipod_01_F_blk", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_MMG_02_black_F_acc_pointer_IRoptic_Holosight_smg_blk_Fbipod_01_F_blk", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -508,7 +508,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -534,7 +534,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_LMG_03_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_LMG_03_F_ACE_muzzle_mzls_Bacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -560,7 +560,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_AKS_F", "A3M_launch_RPG7_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKS_F", "A3M_launch_RPG7_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -586,7 +586,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_srifle_DMR_03_F_muzzle_snds_Bacc_pointer_IRoptic_KHS_oldbipod_02_F_blk", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_srifle_DMR_03_F_muzzle_snds_Bacc_pointer_IRoptic_KHS_oldbipod_02_F_blk", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -612,7 +612,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_AKM_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKM_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -638,7 +638,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_elasticBandage", "ACE_elasticBandage", "ACE_elasticBandage", "ACE_elasticBandage", "ACE_elasticBandage", "ACE_elasticBandage", "ACE_packingBandage", "ACE_packingBandage", "ACE_packingBandage", "ACE_packingBandage", "ACE_packingBandage", "ACE_packingBandage", "ACE_bloodIV", "ACE_bloodIV", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_plasmaIV", "ACE_plasmaIV", "ACE_splint", "ACE_splint", "Medikit", "ACE_tourniquet", "ACE_tourniquet", "ACE_surgicalKit"};
@@ -664,7 +664,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch", "ACE_DefusalKit", "ACE_Clacker", "ToolKit", "ACE_wirecutter"};
@@ -690,7 +690,7 @@ class cfgVehicles
 		{
 			init = "";
 		};
-    uniformClass = "U_I_L_Uniform_01_deserter_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_AKS_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -716,7 +716,7 @@ class cfgVehicles
 			init = "";
 		};
     editorSubcategory = "EdSubcat_Personnel_SpecialForces";
-    uniformClass = "U_I_L_Uniform_01_camo_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_SPAR_01_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_SPAR_01_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -742,7 +742,7 @@ class cfgVehicles
 			init = "";
 		};
     editorSubcategory = "EdSubcat_Personnel_SpecialForces";
-    uniformClass = "U_I_L_Uniform_01_camo_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_SMG_05_F_muzzle_snds_lacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_SMG_05_F_muzzle_snds_lacc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch", "Medikit", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_elasticBandage", "ACE_elasticBandage", "ACE_elasticBandage", "ACE_elasticBandage", "ACE_elasticBandage", "ACE_elasticBandage", "ACE_packingBandage", "ACE_packingBandage", "ACE_packingBandage", "ACE_packingBandage", "ACE_packingBandage", "ACE_packingBandage", "ACE_quikclot", "ACE_quikclot", "ACE_quikclot", "ACE_quikclot", "ACE_quikclot", "ACE_quikclot", "ACE_bloodIV", "ACE_bloodIV", "ACE_bodyBag", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "ACE_epinephrine", "FirstAidKit", "FirstAidKit", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_morphine", "ACE_plasmaIV", "ACE_plasmaIV"};
@@ -768,7 +768,7 @@ class cfgVehicles
 			init = "";
 		};
     editorSubcategory = "EdSubcat_Personnel_SpecialForces";
-    uniformClass = "U_I_L_Uniform_01_camo_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_SPAR_01_GL_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_SPAR_01_GL_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -794,7 +794,7 @@ class cfgVehicles
 			init = "";
 		};
     editorSubcategory = "EdSubcat_Personnel_SpecialForces";
-    uniformClass = "U_I_L_Uniform_01_camo_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_SPAR_01_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_SPAR_01_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
@@ -820,7 +820,7 @@ class cfgVehicles
 			init = "";
 		};
     editorSubcategory = "EdSubcat_Personnel_SpecialForces";
-    uniformClass = "U_I_L_Uniform_01_camo_F";
+    uniformClass = "U_BG_Guerrilla_6_1";
     weapons[] = {"A3M_arifle_SPAR_01_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_launch_RPG7_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     respawnWeapons[] = {"A3M_arifle_SPAR_01_blk_F_muzzle_snds_Macc_pointer_IRoptic_Holosight_smg_blk_F", "A3M_launch_RPG7_F", "A3M_hgun_Pistol_01_F", "Put", "Throw"};
     items[] = {"ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_fieldDressing", "ACE_CableTie", "ACE_EarPlugs", "ACE_epinephrine", "ACE_epinephrine", "ACE_DeadManSwitch"};
